@@ -87,5 +87,9 @@ codtech-task4-elearning/
 └── style.css
 ✅ Conclusion:
 This project demonstrates how simple web technologies like HTML and CSS can be used to create an effective and visually appealing e-learning platform. It covers the core essentials of front-end web development, including multi-page layout, embedded video content, and progress tracking. The website is easy to navigate, beginner-friendly, and showcases the ability to organize learning content professionally. By hosting the project on GitHub Pages, it is not only accessible from anywhere but also shows familiarity with version control and modern development workflows. This task has strengthened my skills in HTML, CSS, Git, and project structuring — and serves as a great foundational project for future web development work.
-*OUTPUT*:
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/b20e450d-80df-43af-a063-30669772d880)
+
+![Image](https://github.com/user-attachments/assets/67fa54bf-dea2-476c-a223-edf29f718b05)
+
+![Image](https://github.com/user-attachments/assets/5d4ee2db-2de1-4fe7-9700-7ea2e03568c7)
 
